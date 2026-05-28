@@ -15,12 +15,6 @@
 - [Dataset](#-dataset)
 - [Pipeline Steps](#-pipeline-steps)
 - [Outputs](#-outputs)
-- [Requirements](#-requirements)
-- [Installation & Usage](#-installation--usage)
-- [Customisation](#-customisation)
-- [License](#-license)
-- [Acknowledgements](#-acknowledgements)
-
 ---
 
 ## 🎯 Overview
