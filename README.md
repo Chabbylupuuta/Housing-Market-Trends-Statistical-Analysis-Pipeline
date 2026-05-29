@@ -65,8 +65,28 @@ The input file `real_housing_data.csv` contains monthly housing market data with
 The R script `housing_analysis_real.R` executes the following steps:
 
 ### 1. Load Libraries
+
 ```r
 library(dplyr)
 library(ggplot2)
 library(tidyr)
 library(lubridate)
+
+## 📈 Generated Visualisations
+
+### 1. Median Price Trends Over Time
+![Median Price Trends](pictures/01_median_price_trends.png)
+
+### 2. Price vs. Sales Volume (with Regression)
+![Price vs Volume](pictures/02_price_vs_volume_scatter.png)
+
+### 3. Regional Sales Share (Donut Chart)
+![Regional Donut](pictures/03_regional_donut_chart.png)
+
+### 4. Sales Volume Distribution
+![Volume Histogram](pictures/04_sales_volume_histogram.png)
+
+### 5. Regional Sales Over Time (Area Chart)
+![Regional Area Chart](pictures/05_regional_area_chart.png)
+
+
